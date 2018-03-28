@@ -1,0 +1,2 @@
+include a series resistor (~270 Ohm +-100 Ohm) on the Data-In input to the first module on the first strip in order to prevent ringing (overshoot and undershoot) caused by the fast edges/transitions from the microcontroller output driving the strip.
+ 
